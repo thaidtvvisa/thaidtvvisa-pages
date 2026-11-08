@@ -1,0 +1,12 @@
+title: Thai DTV Visa
+description: >-
+  Articles from Thai DTV Visa, thaidtvvisa.com.
+url: https://thaidtvvisa.github.io
+baseurl: /thaidtvvisa-pages
+theme: minima
+permalink: /:year/:month/:day/:title/
+future: true
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
